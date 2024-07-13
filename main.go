@@ -20,4 +20,6 @@ func main() {
 	for i, row := range res {
 		fmt.Printf("Row %d: %v\n", i, row)
 	}
+
+	fmt.Printf("\n")
 }
