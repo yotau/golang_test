@@ -22,4 +22,6 @@ func main() {
 	}
 
 	fmt.Printf("\n")
+
+	fmt.Printf("hello")
 }
